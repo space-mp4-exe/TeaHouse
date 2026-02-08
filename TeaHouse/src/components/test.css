@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Centers the card on the full screen */
+    min-height: 100vh; 
     background-color: #f3f4f6; /* Light gray background for contrast */
   }
   
@@ -37,8 +37,4 @@
     color: #9ca3af;
     cursor: pointer;
     transition: color 0.2s;
-  }
-  
-  .logout-button:hover {
-    color: #ef4444; /* Turns red on hover */
   }
